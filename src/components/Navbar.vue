@@ -4,7 +4,8 @@ import { RouterLink } from 'vue-router'
 
 <template>
   <nav>
-    <RouterLink to="/">Grand Prix</RouterLink>
+    <a href="https://matlewan.github.io">Home</a>
+    <RouterLink to="/">GrandPrix</RouterLink>
     <RouterLink to="/players">Players</RouterLink>
     <!-- <RouterLink to="/player">Player</RouterLink> -->
     <RouterLink to="/tournaments">Tournaments</RouterLink>
